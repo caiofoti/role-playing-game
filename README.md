@@ -1,4 +1,4 @@
-# Basic RPG in JavaScript
+# Basic-RPG-em-JavaScript
 
 This project was completed as part of a hands-on exercise in FreeCodeCamp to learn basic JavaScript concepts through the creation of an RPG game.
 
